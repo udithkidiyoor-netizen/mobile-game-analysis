@@ -6,7 +6,7 @@
 * Can early engagement predict purchase likelihood?
 
 ### Dataset Characteristics
-Total Records: 3,024 user entries
-Features: 13 columns covering user demographics, gaming behavior, and transaction data
-Target Application: Mobile game monetization analysis, user behavior prediction, and revenue optimization
-Data Quality: Contains realistic null values (~2-5%) to simulate real-world data collection scenarios
+*Demographics (Age, Gender, Country, Device)
+*Gameplay metrics (Session Count, Average Session Length)
+*Monetization data (In-App Purchase Amount, Spending Segment)
+* Purchase timing (First Purchase Days After Install)
