@@ -11,6 +11,17 @@
 * Monetization data (In-App Purchase Amount, Spending Segment)
 * Purchase timing (First Purchase Days After Install)
 
+### Feature Engineering
+* Total Engagement = Session Count × Average Session Length
+* Early Purchase Flag -Identifies players who made a purchase within the first 7 days
+* High Spender Label - Dolphins and Whales mapped as high-value users
+
+### Machine Learning 
+Logistic regression
+
+### Visualization
+Power Bi, Python
+
 ### Analysis
 * Players with high engagement tend to be high spenders, but high engagement does not mean high spending and the scatterplot proves it so...
 
