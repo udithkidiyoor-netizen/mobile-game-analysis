@@ -24,3 +24,5 @@
               4	AverageSessionLength	-0.443278
 
 * Early spenders signal higer average spending.
+* The model does not do a good job at predicting the purchase likelihood, only 50% of the high spenders were captured,
+  but combined with other features significantly increases finding potential high value players.
